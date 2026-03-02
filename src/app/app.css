@@ -6,3 +6,10 @@
     max-width: 1100px;
     margin: 0 auto;
 }
+
+.fontImage{
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    aspect-ratio: 2 / 1;
+}
