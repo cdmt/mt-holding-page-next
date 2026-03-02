@@ -1,0 +1,15 @@
+.header-text{
+    color: #ff6ec7;
+    text-align: center;
+    border-top: 1px solid #ff6ec7;
+    border-bottom: 1px solid #ff6ec7;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-between; 
+    align-items: baseline;
+}
