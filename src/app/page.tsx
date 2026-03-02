@@ -5,7 +5,7 @@ export default function Home() {
     <section className="fonts">
       <ul className="fontList">
           <li>
-              <img src="/fonts/alber.png" alt="" />
+              <img src="/fonts/alber.png" alt="alber" />
               <a href="https://www.myfonts.com/collections/alber-new-font-moretype?queryId=92327210d668654bc4cf04c4aec037c9&amp;index=universal_search_data&amp;objectIDs=5424458002" target="_blank">Buy</a>
           </li>
           <li>
