@@ -4,7 +4,7 @@ import "./footer.css"
 export const Footer = () => {
     return (
         <div className="footer">
-            @Moretype
+            © {new Date().getFullYear()} Moretype
         </div>
     )
 }
